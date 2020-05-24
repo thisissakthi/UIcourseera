@@ -1,0 +1,24 @@
+{
+  "name": "uicourseera",
+  "version": "1.0.0",
+  "description": "this is Courseerawork",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisissakthi/UIcourseera.git"
+  },
+  "author": "Sakthi Prasath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisissakthi/UIcourseera/issues"
+  },
+  "homepage": "https://github.com/thisissakthi/UIcourseera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
